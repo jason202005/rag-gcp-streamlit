@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+google-cloud-bigquery
+langchain-google-genai
+langchain_google_vertexai
+langchain-community 
+langchain-core
+python-dotenv

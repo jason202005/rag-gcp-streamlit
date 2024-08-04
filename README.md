@@ -84,14 +84,6 @@ bigquery-vector-search-rag/
 └── README.md              # Project README
 ```
 
-## Dependencies
-
-- `streamlit`: Web application framework for creating interactive apps.
-- `google-cloud-bigquery`: Client library for interacting with BigQuery.
-- `langchain-google-vertexai`: LangChain integration for Google Vertex AI.
-- `langchain-google-genai`: LangChain integration for Google Generative AI.
-- `python-dotenv`: Library for loading environment variables from a `.env` file.
-
 
 ## References
 https://cloud.google.com/vertex-ai/docs/vector-search/quickstart https://github.com/rocketechgroup/langchain_bigquery_vector/tree/main
